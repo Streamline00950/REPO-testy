@@ -36,6 +36,7 @@ class Table extends Matrix
 
 	  parent::__construct($rows, $cols);
    }
+	trorlrorlro
 
 	public function printHTML()
 	{
