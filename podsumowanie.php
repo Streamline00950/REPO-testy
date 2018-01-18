@@ -15,8 +15,8 @@ abstract class Matrix
 	protected  function __construct ($rows, $cols)
 	{
 	 $this->cols=$cols;
-	 $this->rows=$rows;	
-
+	 $this->row=$rows;	
+		
 			for ($i=0; $i<= $this->cols;$i++)
 			{
 				for($j=0;$j<=$this->rows;$j++)
