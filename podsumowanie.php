@@ -27,8 +27,7 @@ abstract class Matrix
 	   }
 }
 
-class Table extends Matrix
-{
+class Table extends Mat
 	//$height
 
 	   public function __construct($rows, $cols) //może pobierac $height i przez to rozszerzac konstruktor
